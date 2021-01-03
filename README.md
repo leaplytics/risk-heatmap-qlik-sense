@@ -1,4 +1,4 @@
-# Risk Heatmap – Extension for Qlik Sense
+# LeapLytics Risk Heatmap – Extension for Qlik Sense
 
 ![Traffic Light Settings](docs/settings.gif)
 
