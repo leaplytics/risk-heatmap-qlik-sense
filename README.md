@@ -12,7 +12,13 @@ This extension can also be used for monitoring and indicating thresholds for all
 
 **IT**: Indicate applications, that are in green, yellow or red area of status (performance, health) 
 
+---
 
+<h2 align="center">PRO Version</h2>
+
+<p align="center">Interested in a <b>more flexible</b> with <b>even more features</b>? Check out our <a href="https://www.leaplytics.de/risk-heatmap-qliksense-offering/" target="_blank">PRO Version here</a>!</p>
+
+---
 ## Installation
 
 1.  Download the [“Risk Heatmap Master”](https://github.com/leaplytics/risk-heatmap-qlik-sense/tree/master) repository from GitHub
@@ -112,6 +118,12 @@ This extension has been tested with:
 2019/09](https://help.qlik.com/en-US/sense-developer/September2019/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Sept2019.htm)
 
 ### Version History
+
+#### Version 1.2
+- Minor Bugfixing
+
+#### Version 1.1
+- Minor Bugfixing
 
 #### Version 1.0
 

@@ -2,7 +2,7 @@
 	"name": "Risk Heatmap",
 	"description": "Risk Heatmap to visualize risk impact and probability.",
 	"type": "visualization",
-	"version": "1.0.0",
+	"version": "1.2.0",
 	"icon": "gauge-chart",
     "preview": "icon.png",
 	"author": "Bjoern Lange, Dominik Galsheimer, Stefan Preusler",
