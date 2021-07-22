@@ -109,6 +109,12 @@ This Qlik Sense extension is developed by
 This extension has been tested with:
 
 [Qlik Sense
+2021/05](https://help.qlik.com/en-US/sense-developer/May2021/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-May2021.htm)
+
+[Qlik Sense
+2021/02](https://help.qlik.com/en-US/sense-developer/May2021/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Feb2021.htm)
+
+[Qlik Sense
 2020/11](https://help.qlik.com/en-US/sense-developer/November2020/Content/Sense_Helpsites/WhatsNew/What-is-new-developer-Nov2020.htm)
 
 [Qlik Sense
